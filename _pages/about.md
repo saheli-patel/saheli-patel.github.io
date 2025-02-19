@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Graduate Student @<a href='https://raney.seas.upenn.edu/'>University of Pennsylvania</a>.
+subtitle: PhD Graduate Student @ <a href='https://raney.seas.upenn.edu/'>University of Pennsylvania</a>.
 
 profile:
   align: right
@@ -34,7 +34,7 @@ I’m a mechanical engineer and researcher passionate about bio-inspired applica
 
 Currently, I’m pursuing research on fluid-structure interactions and material mechanics, with experience spanning industry and academia. Previously, I worked at Boeing and Textron Systems, tackling challenges in structural engineering and additive manufacturing. I’ve also contributed to global engineering projects through Engineers Without Borders.
 
-In my spare time, I enjoy reading, mentoring, traveling, being outdoors, staying active, trying new sports, and training for different physical challenges. 
+In my spare time, I enjoy reading, mentoring, traveling, being outdoors, staying active, trying new sports, and training for different physical challenges.
 
 If you're interested in interdisciplinary research at the intersection of mechanical engineering and biotechnology, let’s connect! I’m always eager to exchange ideas and learn from new perspectives.
 
