@@ -9,8 +9,8 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
-          title: "blog",
+  },{id: "nav-i-have-a-pulse",
+          title: "I have a pulse",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -301,15 +301,26 @@ ninja.data = [{
           window.location.href = "/assets/pdf/example_pdf.pdf";
         
       },
-    },{id: "post-a-post-with-diagrams",
+    },{id: "post-cookbook",
       
-        title: "a post with diagrams",
+        title: "Cookbook",
+      
+      description: "A collection of delicious recipes",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2021/cookbook/";
+        
+      },
+    },{id: "post-bookshelf",
+      
+        title: "Bookshelf",
       
       description: "an example of a blog post with diagrams",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2021/diagrams/";
+          window.location.href = "/blog/2021/Bookshelf/";
         
       },
     },{id: "post-a-distill-style-blog-post",
@@ -445,6 +456,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "recipes-rajasthani-kadhi",
+          title: 'Rajasthani Kadhi',
+          description: "A tangy and flavorful yogurt-based curry perfect with jeera rice.",
+          section: "Recipes",handler: () => {
+              window.location.href = "/recipes/rajasthani-kadhi/";
             },},{
         id: 'social-email',
         title: 'email',
