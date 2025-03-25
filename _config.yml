@@ -97,7 +97,7 @@ pagination:
   enabled: true
 
 related_blog_posts:
-  enabled: true
+  enabled: false
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
@@ -152,6 +152,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:title/
+  recipes:
+    output: true
+    permalink: /recipes/:title/
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
