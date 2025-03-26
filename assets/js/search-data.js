@@ -456,6 +456,21 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "recipes-baked-pasta-with-vegetables",
+          title: 'Baked Pasta with Vegetables',
+          description: "A hearty baked pasta dish with vegetables, ricotta, and mozzarella cheese.",
+          section: "Recipes",handler: () => {
+              window.location.href = "/recipes/baked-pasta/";
+            },},{id: "recipes-dahi-ke-aloo-potatoes-in-buttermilk",
+          title: 'Dahi Ke Aloo (Potatoes in Buttermilk)',
+          description: "A flavorful Indian curry made with potatoes and buttermilk, perfect for a comforting meal.",
+          section: "Recipes",handler: () => {
+              window.location.href = "/recipes/dahi-ke-aloo/";
+            },},{id: "recipes-minestrone-soup",
+          title: 'Minestrone Soup',
+          description: "A hearty and comforting Italian vegetable soup with pasta and beans.",
+          section: "Recipes",handler: () => {
+              window.location.href = "/recipes/minestrone/";
             },},{id: "recipes-rajasthani-kadhi",
           title: 'Rajasthani Kadhi',
           description: "A tangy and flavorful yogurt-based curry perfect with jeera rice.",
