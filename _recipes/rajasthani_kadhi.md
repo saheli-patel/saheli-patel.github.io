@@ -15,6 +15,7 @@ permalink: /recipes/rajasthani-kadhi/
 - 1 tsp salt
 - 4 cup water
 - 2 tbsp ghee
+- 1 tsp Ajwain (secret ingredient)
 - 1 tsp mustard seeds
 - 1 tsp cumin seeds
 - ½ tsp fennel seeds
@@ -35,7 +36,7 @@ permalink: /recipes/rajasthani-kadhi/
 1. In a large bowl, take 1½ cup curd, ¼ cup besan, ½ tsp chilli powder, ½ tsp turmeric, and 1 tsp salt.
 2. Whisk and mix well, making sure there are no lumps.
 3. Add 4 cups of water and mix well. Keep aside.
-4. In a large kadai, heat 2 tbsp ghee. Add 1 tsp mustard seeds, 1 tsp cumin seeds, ½ tsp fennel seeds, ¼ tsp methi, 1 bay leaf, 4 cloves, 2 pods cardamom, a few curry leaves, and a pinch of hing.
+4. In a large kadai, heat 2 tbsp ghee. Add 1 tsp mustard seeds, 1 tsp Ajwain, 1 tsp cumin seeds, ½ tsp fennel seeds, ¼ tsp methi, 1 bay leaf, 4 cloves, 2 pods cardamom, a few curry leaves, and a pinch of hing.
 5. Add 2 green chillies and 1 inch of finely chopped ginger. Sauté well.
 6. Pour in the prepared besan-curd mixture and mix well.
 7. Keep stirring until the mixture comes to a boil. The kadhi will start to thicken.
@@ -44,4 +45,4 @@ permalink: /recipes/rajasthani-kadhi/
 10. Pour the tempering over the kadhi. Add 2 tbsp chopped coriander and mix well.
 11. Finally, enjoy Rajasthani Kadhi with jeera rice.
 
-[Back to Cookbook](/blog/)
+[Back to Cookbook](/blog/2021/cookbook/)
