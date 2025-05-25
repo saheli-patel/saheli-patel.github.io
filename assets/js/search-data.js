@@ -471,6 +471,11 @@ ninja.data = [{
           description: "A hearty and comforting Italian vegetable soup with pasta and beans.",
           section: "Recipes",handler: () => {
               window.location.href = "/recipes/minestrone/";
+            },},{id: "recipes-butter-naan",
+          title: 'Butter Naan',
+          description: "Soft, fluffy, and delicious homemade naan brushed with butter. Perfect with Indian curries.",
+          section: "Recipes",handler: () => {
+              window.location.href = "/recipes/butter-naan/";
             },},{id: "recipes-rajasthani-kadhi",
           title: 'Rajasthani Kadhi',
           description: "A tangy and flavorful yogurt-based curry perfect with jeera rice.",
